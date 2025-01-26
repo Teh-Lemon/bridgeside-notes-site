@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/tips/"}
 ---
 
 - Windows Powertoys - win + shift + T for instant OCR

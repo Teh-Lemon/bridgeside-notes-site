@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/appointments/appointments/"}
+{"dg-publish":true,"permalink":"/appointments/appointments/","tags":["gardenEntry"]}
 ---
 
 * Samples
