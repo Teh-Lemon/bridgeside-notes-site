@@ -4,8 +4,9 @@
 
 #### RDH
 * Audit-only
-	* Task all requests
+	* Task all requests and he'll get to it
 	* No screen-messages
+	* Don't change his slot types
 #### CB
 * Likes real-time communication
 #### CW
