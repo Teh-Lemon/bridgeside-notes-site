@@ -7,9 +7,11 @@
 	- Blood tests must be done in morning
 	- Blood test result reviews: Lipids, HB1AC (sugar), TSH
 	- Can only tell Pt if all normal or if needs discussion.
+	- Book longer if elderly or young
 - Smoking cessation service
 	- Program to help smokers quit
 	- Not booking for now as Paula not in, refer to One You
+- Nurses less worried about needing 20 minutes later in the day 
 ### Annual QOF Review
 - 
 ### Vaccines
@@ -21,9 +23,9 @@
 - Travel Vaccines require few weeks advanced notice
 ### Rankings
 - Advanced Nurse Practitioner
-	- Helen Bovill
+	- HB
 		- Like Paramedic, Prescriptions, more training than Luke
 - Practice Nurse
-	- Lesley, Lauren
+	- LS, LH
 - Health Care Assistant
-	- Paula
+	- PR

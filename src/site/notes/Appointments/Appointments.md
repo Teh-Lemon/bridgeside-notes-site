@@ -4,6 +4,7 @@
 
 * Samples
 	* Only after request by Dr
+	* Urine sample can be done beforehand if per Bubbles
 * SMS
 	* Save all to record
 	* Ask other receptionists to keep eye out if no response when I leave
@@ -51,7 +52,3 @@
 	* https://www.eastsussexsexualhealth.co.uk
 * Pregnancy
 	* Mid-wife / Health Visitor
-### Appointment Types
-* 6-8 week check
-	* Baby check with Dr
-	* 15 mins for both baby and mum back-to-back
