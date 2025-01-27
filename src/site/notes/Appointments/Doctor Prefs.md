@@ -2,24 +2,25 @@
 {"dg-publish":true,"permalink":"/appointments/doctor-prefs/"}
 ---
 
-#### RDH
+### RDH
 * Auditable-only
-	* [p] Task all requests and he'll get to it
-	* [c] No screen-messages
-	* [c] Don't change his slot types
-#### CB
-* [p] Likes real-time communication
-#### CW
+	✅Task all requests and he'll get to it
+	❌No screen-messages
+	❌Don't change his slot types
+### CB
+✅Likes real-time communication
+### CW
 - Pronounced Wisemen
-* [p] Likes screen messages
+✅Likes screen messages
 	- Can send her urgent task and ask her to look at it
-* [c] Does not do joint injections and coil insertions TBC
-* [p] Takes babies, mental health, male problems
-* [p] Does not mind Tel -> F2F
+❌Does not do joint injections and coil insertions (for now)
+✅Takes babies, mental health, male problems
+✅Does not mind Tel -> F2F
 	- Used to mostly doing F2F at old surgery
-* [p] Task her if unsure about a patient
+✅Task her if unsure about a patient
 	- E.g. Pts taking Methotrexate (immunosuppressed)
-* [c] Do not book her with her old colleagues from Heathfield
+❌Do not book her with her old colleagues from Heathfield
+	- Warning notices TBC 
 ## Paramedics
 * Can do prescriptions, but limited controlled drugs
 	* Morphine
@@ -28,10 +29,10 @@
 	* Midazolam
 	* Lorazepam
 * Can review blood test results
-#### LB
-* [p] Does do mental health
-#### MC
-- [c] Does not take gynae, under 2's
+### LB
+✅Does do mental health
+### MC
+❌Does not take gynae, under 2's
 ## Physiotherapist
 * Vicarage Field Surgery, next to Waitrose
 	* Vicarage Field, 25 Vicarage Ln, Hailsham BN27 1BE
