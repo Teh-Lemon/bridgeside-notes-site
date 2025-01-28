@@ -21,6 +21,11 @@
 	- If you're aged 80 or over
 		- If you turned 80 after 1 September 2024, you're eligible for the RSV vaccine until 31 August 2025.
 - Travel Vaccines require few weeks advanced notice
+### Home Visits by KL
+- Blood tests, height, weight, blood pressure
+- She needs to know why (form needed)
+- Max 6 a day
+- Doesn't have to be coded housebound, she's fine if they're like 90
 ### Rankings
 - Advanced Nurse Practitioner
 	- HB

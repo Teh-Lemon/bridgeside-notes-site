@@ -23,6 +23,7 @@
 * Can take a good week for ABX to clear symptoms
 	* More worried if SOB/fever/low appetite for chest infections
 * If been a while since last Appt, ask if they're still symptomatic
+* Do not book empty slots if the time has passed
 ## Options
 * FCP Physio
 	* 16+ Only, check exclusion list
@@ -39,13 +40,13 @@
 * Urgent Treatment Centre Eastbourne
 	* Mental Health included
 * Minor Injuries Unit Uckfield
-* Eye clinic (Eastbourne Ophthalmology)
-	* Mon-Fri 7am - 7pm Level 3. Tel: 0300 131 4600
-	* NOT FOR PUBLIC BOOKING
+* Eye Clinics
+	* Opticians
 * Home visits
 	* Only if housebound note or recent frequent HV appts
 	* Pt unable to travel or leave house not good enough reason
 	* Free to book otherwise
+	* Nurse Home visits
 * Health in Mind
 	* https://www.healthinmind.org.uk/referral
 * Sexual Health (Eastbourne Avenue House)
