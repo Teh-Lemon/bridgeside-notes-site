@@ -4,7 +4,7 @@
 
 ### Doctor assisted
 - **Coil Implants**
-	- Copper: 5-10 years
+	- Copper (IUD): 5-10 years
 	- Hormonal: 3-8 years
 - **Implant** in arm
 	- 3 years
@@ -27,3 +27,8 @@
 - **Diaphragms and caps**
 	- Used alongside spermicide gels
 	- Put in a few hours before sex
+### Emergency post-sex
+- **IUD**
+- **Emergency contraceptive pill (morning after pill)**
+	- Levonorgestrel (brands include Levonelle) which you need to take within 3 days (72 hours) after sex
+	- Ulipristal acetate (brands include ellaOne) which you need to take within 5 days (120 hours) after sex
