@@ -44,3 +44,8 @@
 	- SSRI: **Fluoxetine** (Prozac), **citalopram** (Cipramil), escitalopram (Cipralex), paroxetine (Seroxat) and **sertraline** (Lustral).
 	- SNRI: Duloxetine (Cymbalta and Yentreve) and **Venlafaxine** (Efexor).
 	- NASSAs: **mirtazapine** (Zispin)
+- Blood thinners
+	- **Apixaban**, **Rivaroxaban**, **Warfarin**
+- Pain killers
+	- CD Pregabalin (nerve pain)
+	- CD Zopiclone

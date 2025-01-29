@@ -7,12 +7,12 @@
 * LRTI - Lower Respiratory Tract Infection
 * NAD - Nothing Abnormal Discovered
 * od - Once a day
+* RX - Repeat Prescription
 * SX - Symptoms
 * TCI - To come in
-* TX - Treatment
-* RX - Repeat Prescription
+* TX - Treatment 
 * POA - Power of Attorney
-* PT - Patient
+* Pt - Patient
 * WCAG - Worsening Care Advice Given
 * WT - Weight
 * x/52 -  Number of Weeks

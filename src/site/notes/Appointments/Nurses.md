@@ -12,8 +12,6 @@
 	- Program to help smokers quit
 	- Not booking for now as Paula not in, refer to One You
 - Nurses less worried about needing 20 minutes later in the day 
-### Annual QOF Review
-- 
 ### Vaccines
 - RSV vaccine is recommended if:
 	- you're pregnant – the vaccine is recommended during every pregnancy (from 28 weeks onwards) to help protect your baby after they're born
