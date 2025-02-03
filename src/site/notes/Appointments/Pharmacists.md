@@ -18,17 +18,7 @@
 	* Change with **Nominations** button in top bar
 * "Commenced", means not issued yet
 * Notifications are not given out when issued
-## Community Pharmacy
-- Can issue ABX if needed
-- Kamsoms take phone repeat prescriptions requests
-	- Others exceptions only, except Paydens
-- Pt can just walk-in
-- Check age ranges (e.g. UTI)
-- If Pharmacists call back:
-	- Ask if they can email us
-	- Doctors not comfortable with us non-clinicians taking verbal orders
-	- Gives us more authority to use Urgent slots
-- Cover nails and eyes
+
 ### Medicines
 - **Methotrexate** is a type of immunosuppressant.
 	- Sometimes taken with Folic Acid

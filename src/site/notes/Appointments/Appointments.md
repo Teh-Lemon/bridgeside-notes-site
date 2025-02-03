@@ -24,6 +24,17 @@
 	* More worried if SOB/fever/low appetite for chest infections
 * If been a while since last Appt, ask if they're still symptomatic
 * Do not book empty slots if the time has passed
+### Community Pharmacy
+- Can issue ABX if needed
+- Kamsons take phone repeat prescriptions requests
+	- Others exceptions only, except Paydens
+- Pt can just walk-in
+- Check age ranges (e.g. UTI)
+- If Pharmacists call back:
+	- Ask if they can email us
+	- Doctors not comfortable with us non-clinicians taking verbal orders
+	- Gives us more authority to use Urgent slots
+- Cover nails and eyes
 ## Options
 * FCP Physio
 	* 16+ Only, check exclusion list
@@ -40,8 +51,7 @@
 * Urgent Treatment Centre Eastbourne
 	* Mental Health included
 * Minor Injuries Unit Uckfield
-* Eye Clinics
-	* Opticians
+* Opticians
 * Home visits
 	* Only if housebound note or recent frequent HV appts
 	* Pt unable to travel or leave house not good enough reason
