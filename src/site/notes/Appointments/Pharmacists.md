@@ -36,6 +36,29 @@
 	- NASSAs: **mirtazapine** (Zispin)
 - Blood thinners
 	- **Apixaban**, **Rivaroxaban**, **Warfarin**
+- Reduce high LDL cholesterol
+	- Statins (**Atorvastatin**, **Simvastatin**)
 - Pain killers
-	- CD Pregabalin (nerve pain)
-	- CD Zopiclone
+	- **Paracetamol**
+		- Blocks pain and high-temp-control signals in brain
+		- Safe to take paracetamol regularly for many years
+		- Usually best for most types of pain, including headaches and stomach ache
+	- Non-steroidal anti-inflammatory drugs (NSAIDs)
+		- Reduce swelling and pain. Good for joint, back, and muscle pain. Headaches, painful periods, sprains and strains, colds/flu, COVID-19, arthritis.
+		- Can affect stomach ulcers, severe heart/kidney/liver problems.
+		- **Ibuprofen**
+			- Ibuprofen may be better for period pain or toothache. Some people find ibuprofen better than paracetamol for back pain.
+			- Reduces hormones that cause pain and swelling
+		- **Naproxen**
+			- Rheumatoid arthritis, Osteoarthritis, Gout, Period Pain, Muscle/Bone disorders
+		- **Aspirin**
+	- Opioids
+		- Blocks pain signals in nervous system
+		- Addictive
+		- **Co-codamol**: Mix of Paracetamol and Codeine
+			- Heaches, muscle pain, migraines, toothache
+			- Lowest strength available BTC, higher strengths require prescription
+		- CD **Pregabalin**/**Gabapentin** (nerve pain, epilepsy, anxiety)
+		- CD Morphine (severe pain after operations/serious injuries/cancer/heart attacks)
+			- Available as liquid-form Oromorph.
+	- CD **Zopiclone** (sleep aid)
