@@ -38,7 +38,6 @@
 - ✅ Ok for male genitals but not trained on prostate problems. 
 	- Can order PSA tests but can't do the rectal exam.
 - ❌ Ideally not under 1s
-	- 
 - ✅ Prefers screen-messages over tasks
 ### MC
 - ❌Does not take gynae, under 2's
