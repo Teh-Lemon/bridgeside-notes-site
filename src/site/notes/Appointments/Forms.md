@@ -11,6 +11,7 @@ https://www.bridgesidesurgery.co.uk/form-repeat-prescription
 Other options: 
 https://www.bridgesidesurgery.co.uk/repeat-prescriptions
 ### Sick note
+Here's where you can request your sick note:
 https://www.bridgesidesurgery.co.uk/sickness-certificate
 - Can be issued during the Appt without request
 ### Update Your Details
