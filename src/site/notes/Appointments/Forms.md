@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/appointments/forms/"}
+{"dg-publish":true,"permalink":"/appointments/forms/","tags":["gardenEntry"]}
 ---
 
 https://www.bridgesidesurgery.co.uk/services
