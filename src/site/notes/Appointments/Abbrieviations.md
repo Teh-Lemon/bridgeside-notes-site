@@ -3,6 +3,7 @@
 ---
 
 * bd - Twice a day
+* DW - Discussed with
 * HF Nurse - Heart Failure Nurse
 * LRTI - Lower Respiratory Tract Infection
 * NAD - Nothing Abnormal Discovered
