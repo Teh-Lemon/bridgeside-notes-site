@@ -6,6 +6,7 @@
 - **Coil Implants**
 	- Copper (IUD): 5-10 years
 	- Hormonal: 3-8 years
+	- Not done at BS for now, refer to Avenue House
 - **Implant** in arm
 	- 3 years
 - **Depo Injection**

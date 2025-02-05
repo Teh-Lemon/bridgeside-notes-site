@@ -5,6 +5,7 @@
 * Samples
 	* Only after request by Dr
 	* Urine sample can be done beforehand if per Bubbles
+	* Blood pressure records, send via sms template "blood pressure questionnaire"
 * SMS
 	* Save all to record
 	* Ask other receptionists to keep eye out if no response when I leave
