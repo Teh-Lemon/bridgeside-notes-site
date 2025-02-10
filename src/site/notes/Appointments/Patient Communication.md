@@ -14,3 +14,5 @@
 * "Thank you for telling me that"
 * Don't need to offer a complaint if they seem unhappy
 * Don't try to clear up misunderstandings during the call
+* If chasing up 
+	* I reassure you, the doctors will get to it as soon as they can, and if we need to contact you and anything, they will let us know

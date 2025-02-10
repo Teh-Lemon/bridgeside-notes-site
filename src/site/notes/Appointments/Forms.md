@@ -17,14 +17,19 @@ https://www.bridgesidesurgery.co.uk/sickness-certificate
 ### Update Your Details
 Here's where you can inform us of your change of contact details:
 https://www.bridgesidesurgery.co.uk/form-change-of-contact-details
-### Prospective Online Access Record (Apps)
+### Prospective Online Access Record (Apps for Pt and their children) 
 Here's where you can request to gain access to your records online:
 https://www.bridgesidesurgery.co.uk/form-application-for-online
 ### Patient Summary
 Quick Summary: Print button in consultations, print user defined or use "home visits"
 Full Summary: Request in writing, may take 6-8 weeks
 ### FCP Address
-Your appointment with the Physiotherapist will be held here:
+Your appointment with the Physiotherapist will be held at:
 Vicarage Field Surgery
 Vicarage Field, Hailsham BN27 1BE
-It can be found next to Waitrose
+It can be found next to Waitrose.
+### EAS Address
+Your appointment on Saturday 15-Feb 12:00 will be held at:
+Hampden Park Health Centre, 12 Brodrick Close, Eastbourne, East Sussex, BN22 9NQ.  
+
+It can be found next to the Tesco and Hampden Park train station.
