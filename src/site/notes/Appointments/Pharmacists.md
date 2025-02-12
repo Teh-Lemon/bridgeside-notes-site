@@ -24,12 +24,13 @@
 	- Sometimes taken with Folic Acid
 	- Requires careful monitoring of side effects
 - High Blood Pressure
-	- Indapamide (also heart failure and build up of fluid)
+	- **Indapamide** (also heart failure and build up of fluid)
+	- **Bisoprolol**
 - ABX
-	- Doxycycline (chest infx)
-	- Trimethoprim (UTI/Cystitis, sometimes chest infc and acne)
+	- **Doxycycline** (chest infx)
+	- **Trimethoprim** (UTI/Cystitis, sometimes chest infc and acne)
 - Stomach
-	- Omeprazole (indigestion, heartburn, acid reflux, stomach ulcers)
+	- **Omeprazole** (indigestion, heartburn, acid reflux, stomach ulcers)
 - Anti-depressants
 	- SSRI: **Fluoxetine** (Prozac), **citalopram** (Cipramil), escitalopram (Cipralex), paroxetine (Seroxat) and **sertraline** (Lustral).
 	- SNRI: Duloxetine (Cymbalta and Yentreve) and **Venlafaxine** (Efexor).
@@ -64,3 +65,7 @@
 		- CD Morphine (severe pain after operations/serious injuries/cancer/heart attacks)
 			- Available as liquid-form Oromorph.
 	- CD **Zopiclone** (sleep aid)
+- Inhalers
+	- **Salbutamol** (Ventolin, Salamol), blue reliever inhaler
+		- **Terbutaline** other common one
+	- **Beclometasone**, brown preventer inhaler

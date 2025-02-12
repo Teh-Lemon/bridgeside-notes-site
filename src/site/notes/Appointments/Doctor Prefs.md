@@ -24,6 +24,7 @@
 	- Immunosuppressed (taking Methotrexate)
 - ❌Do not book her with her old colleagues from Heathfield
 	- TBC how we'll be notified of this
+- ❌Don't change extended slots to F2F
 ## Paramedics
 * Can do prescriptions, but limited controlled drugs
 	* Morphine (Oromorph only, not the tablets)
@@ -39,8 +40,11 @@
 	- Can order PSA tests but can't do the rectal exam.
 - ❌ Ideally not under 1s
 - ✅ Prefers screen-messages over tasks
+	- Let him know if FayeM calls
 ### MC
 - ❌Does not take gynae, under 2's
+### HB
+- ❌Does not do male genitals
 ## Physiotherapist
 * Vicarage Field Surgery, next to Waitrose
 	* Vicarage Field, 25 Vicarage Ln, Hailsham BN27 1BE
