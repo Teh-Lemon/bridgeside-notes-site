@@ -30,6 +30,7 @@ Patient can request it any time. Check if will be on period.
 1. Blood Test
 2. Appt with HCA/PC (prioritize HCA)
 	1. Must be within 28 days of blood test
+## Vaccines
 ### Child Vaccines Schedule
 
 | Age         | Vaccines                                                                                                            |

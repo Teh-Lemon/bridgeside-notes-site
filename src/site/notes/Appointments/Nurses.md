@@ -10,8 +10,10 @@
 	- Book longer if elderly or young
 - Smoking cessation service
 	- Program to help smokers quit
-	- Not booking for now as Paula not in, refer to One You
+	- Refer to One You if HCA not available
 - Nurses less worried about needing 20 minutes later in the day 
+- Pill check
+	- Requires blood pressure and weight. Can be Tel if Pt can do these at home.
 - Wound checks
 	- Can't lance/drain new cysts, can assess burst cysts to see if healing okay
 ### Vaccines
@@ -29,7 +31,7 @@
 ### Rankings
 - Advanced Nurse Practitioner
 	- HB
-		- Like Paramedic, Prescriptions, more training than Luke
+		- Like Paramedic, Prescriptions, more training than LB
 - Practice Nurse
 	- LS, LH
 - Health Care Assistant
