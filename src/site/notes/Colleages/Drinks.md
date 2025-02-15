@@ -12,7 +12,7 @@
 - HA
 	- Cranberry tea, leave bag in
 - JA
-	- Tea as it comes
+	- Tea, stir till dark, milky
 	- Flowers mug
 - NS
 	- Tea, milk, telephones mug
