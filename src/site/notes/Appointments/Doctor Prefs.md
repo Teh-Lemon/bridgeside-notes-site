@@ -33,6 +33,8 @@
 	* Midazolam
 	* Lorazepam
 * Can review blood test results
+* Can't review CD meds
+* If need med review for more than 3 drugs, need double appointment
 ### LB
 - ✅ Does do mental health
 - ❌ Does not do gynae. Can do breast lumps if no other clinician available but he's not trained on it specifically and will only feel around the non-intimate parts.

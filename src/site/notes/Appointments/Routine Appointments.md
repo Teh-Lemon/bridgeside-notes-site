@@ -48,7 +48,7 @@ Patient can request it any time. Check if will be on period.
 | Age   | Vaccines                                                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 65    | Flu vaccine (given every year after turning 65)<br>Pneumococcal vaccine<br>Shingles vaccine (if you turned 65 on or after 1 September 2023) |
-| 70-79 | Shingles vaccine                                                                                                                            |
+| 70-79 | Shingles vaccine (2 doses, 6-12 months apart)                                                                                               |
 | 75-79 | RSV vaccine                                                                                                                                 |
 ### Vaccines for pregnant Women
 
