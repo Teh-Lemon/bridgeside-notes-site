@@ -29,7 +29,6 @@ Vicarage Field Surgery
 Vicarage Field, Hailsham BN27 1BE
 It can be found next to Waitrose.
 ### EAS Address
-Your appointment on Saturday 15-Feb 12:00 will be held at:
-Hampden Park Health Centre, 12 Brodrick Close, Eastbourne, East Sussex, BN22 9NQ.  
-
-It can be found next to the Tesco and Hampden Park train station.
+Your appointment on Saturday 22-Feb 16:00 will be held at: 
+Hampden Park Health Centre, 12 Brodrick Close, Eastbourne, East Sussex, BN22 9NQ. 
+It can be found next to the Hampden Park train station, behind the Tesco.
