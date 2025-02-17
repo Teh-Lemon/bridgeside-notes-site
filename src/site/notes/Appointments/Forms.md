@@ -31,4 +31,4 @@ It can be found next to Waitrose.
 ### EAS Address
 Your appointment on Saturday 22-Feb 16:00 will be held at: 
 Hampden Park Health Centre, 12 Brodrick Close, Eastbourne, East Sussex, BN22 9NQ. 
-It can be found next to the Hampden Park train station, behind the Tesco.
+It can be found behind the Tesco next to the Hampden Park train station.

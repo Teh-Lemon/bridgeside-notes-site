@@ -51,15 +51,18 @@
 * Community Pharmacy
 * Urgent Treatment Centre Eastbourne
 	* Mental Health included
-* Minor Injuries Unit Uckfield
+* Minor Injuries Unit, Uckfield
 * Opticians
 * Home visits
 	* Only if housebound note or recent frequent HV appts
 	* Pt unable to travel or leave house not good enough reason
 	* Free to book otherwise
 	* Nurse Home visits
-* Health in Mind
-	* https://www.healthinmind.org.uk/referral
+	* If Pt demanding, see if triage GP will be willing to HV to "assess" eligibility
+* Mental Health
+	* Health in Mind https://www.healthinmind.org.uk/referral
+	* 111, mental health option (crisis)
+	* **Free crisis support text service**. Text the word **SUSSEX** to **85258**
 * Sexual Health (Eastbourne Avenue House)
 	* https://www.eastsussexsexualhealth.co.uk
 * Pregnancy
