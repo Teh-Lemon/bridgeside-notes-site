@@ -16,6 +16,11 @@
 	* Should not rv bt
 	* Can't approve sick notes
 		* But can assess Pt's illness so we have the medical notes
+	* No complex mental health
+		* ✅Recent stress/anxiety 
+		* ✅Memory loss but Pt still has mental capacity
+		* ❌Dementia 
+		* ❌Depression treated with meds
 * 999 calls
 	* Write down name, pass onto receptionist team
 	* Write entry into consultation notes

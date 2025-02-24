@@ -27,7 +27,10 @@
 	- **Indapamide** (also heart failure and build up of fluid)
 	- **Bisoprolol**
 - ABX
+	- Penicillins
+		- **Amoxicillin** (chest infc)
 	- **Doxycycline** (chest infx)
+	- **Nitrofurantoin** (UTI)
 	- **Trimethoprim** (UTI/Cystitis, sometimes chest infc and acne)
 - Stomach
 	- **Omeprazole** (indigestion, heartburn, acid reflux, stomach ulcers)

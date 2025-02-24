@@ -21,7 +21,7 @@ https://www.bridgesidesurgery.co.uk/form-change-of-contact-details
 Here's where you can request to gain access to your records online:
 https://www.bridgesidesurgery.co.uk/form-application-for-online
 ### Patient Summary
-Quick Summary: Print button in consultations, print user defined or use "home visits"
+Quick Summary: Print button in consultations, print brief summary or use "home visits". Can be requested over phone. 
 Full Summary: Request in writing, may take 6-8 weeks
 ### FCP Address
 Your appointment with the Physiotherapist will be held at:
