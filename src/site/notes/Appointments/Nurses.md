@@ -28,6 +28,8 @@
 - She needs to know why (form needed)
 - Max 6 a day
 - Doesn't have to be coded housebound, she's fine if they're like 90
+- Not nursing homes, they have their own nursing team
+	- Care homes OK
 ### Rankings
 - Advanced Nurse Practitioner
 	- HB
