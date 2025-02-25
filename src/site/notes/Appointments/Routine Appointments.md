@@ -32,6 +32,7 @@ Patient can request it any time. Check if will be on period.
 	1. Must be within 28 days of blood test
 ## Vaccines
 ### Child Vaccines Schedule
+Do **NOT** book or re-schedule into a Baby Imms slot
 
 | Age         | Vaccines                                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------------------------------- |
