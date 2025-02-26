@@ -24,6 +24,7 @@ Patient can request it any time. Check if will be on period.
 	- Anything that leaves you out of breathe e.g. exercising
 ### 6-8 week baby check
 - Baby and mum check with Dr
+	- Ideally their own GP
 - 15 mins F2F for both baby and mum back-to-back
 - Can be later than 8 weeks if no available slots
 ### NHS Health Check

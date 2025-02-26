@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/appointments/nurses/"}
 ---
 
-- Before ENT Appointment, Pt requires 10 min Ear Check
+- Ears
+	- Before ENT Appointment, Pt requires 10 min Ear Check
+	- If Pt calls about hearing loss, ask if seems like blocked by ear wax
+	- If Pt never done ear syringe before, book 10min F2F appt to check for ear wax and to teach preparation
 - Blood Tests
 	- Blood tests must be done in morning
 	- Blood test result reviews: Lipids, HB1AC (sugar), TSH
