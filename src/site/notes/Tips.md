@@ -9,4 +9,15 @@
 		- Might take a few seconds to load
 	- Already fills in the patient details for you
 	- Doesn't close on you
-- 
+- Edit sms signature
+	- Click initials in Accurx toolbar
+	- Click name at top
+	- Signature
+	- Enter "Thanks, "
+- Move phone bar to other monitor
+	- Click orange logo icon
+	- Settings
+	- Video and Audio
+	- Bottom drop down option, change monitor 
+- Customize button shortcuts at top of EMIS
+	- 
