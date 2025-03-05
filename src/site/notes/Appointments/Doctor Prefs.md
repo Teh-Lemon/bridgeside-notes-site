@@ -46,7 +46,10 @@
 - ❌Does not take gynae, under 2's
 ### HB
 - ❌Does not do male genitals
-- only diabetes and learning disabilities
+- Mostly diabetes and learning disabilities
+	- Generally Type 1 
+	- Can do annual RVs, book 30 minutes
+- Will take gynae and breast lumps
 ## Physiotherapist
 * Vicarage Field Surgery, next to Waitrose
 	* Vicarage Field, 25 Vicarage Ln, Hailsham BN27 1BE

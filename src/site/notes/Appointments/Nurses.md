@@ -6,6 +6,9 @@
 	- Before ENT Appointment, Pt requires 10 min Ear Check
 	- If Pt calls about hearing loss, ask if seems like blocked by ear wax
 	- If Pt never done ear syringe before, book 10min F2F appt to check for ear wax and to teach preparation
+	- Audiology hearing referrals to specsavers
+		- Book 10 min ear check first with PN/HCA
+		- They will pass the notes to the GPs who do the referral
 - Blood Tests
 	- Blood tests must be done in morning
 	- Blood test result reviews: Lipids, HB1AC (sugar), TSH
