@@ -49,14 +49,35 @@
 		* Only after request by Dr
 		* Add to spreadsheet in shared drive but no one to do it for now
 	* Vicarage Field, 25 Vicarage Ln, Hailsham BN27 1BE
+	* 1 slot per joint
 * Pre-bookable (use extend by 28 days button)
 * Nurse Appointment
 * EAS Extended Access
-	* No under 2s, no mental health, no pregnancy
-* Community Pharmacy
+	* No under 2s, no complex mental health, no pregnancy
+* Community Pharmacy First
 * Urgent Treatment Centre Eastbourne
 	* Mental Health included
 * Minor Injuries Unit, Uckfield
+	* Nurse practitioner led. There is no doctor on site.
+	* ✅Acute limb injuries including fractures, wounds, sprains and strains (excluding potential hip or thigh fractures)
+	* ✅Minor head injuries including wounds to head and face (excluding children under 1year and those with associated neck injury, loss of consciousness or any vomiting)
+	* ✅Wounds caused by trauma
+	* ✅Foreign bodies in eyes, ear or nose
+	* ✅Rib injuries
+	* ✅Minor back injuries (excluding chronic conditions or major trauma)
+	* ✅Insect and animal bites and stings.
+	* ✅Burns and scalds
+	* ✅Removal of splinters
+	* ✅Suturing (stitch up) wounds (excluding eyes, nose and lips)
+	- ❌Chest pain
+	- ❌Long-term joint or back pain (the majority of injuries over 2 weeks old are not appropriate for MIU)
+	- ❌Sore throats, earaches, chest infections and urinary tract infections
+	- ❌Rashes
+	- ❌Sexual health problems
+	- ❌Abdominal pain
+	- ❌Post-operative problems.
+	- ❌Re-dressings including leg ulcer dressings
+	- ❌Abscesses
 * Opticians
 * Home visits
 	* Only if housebound note or recent frequent HV appts
@@ -72,3 +93,10 @@
 	* https://www.eastsussexsexualhealth.co.uk
 * Pregnancy
 	* Mid-wife / Health Visitor
+* Dental
+	* Sussex Dental Helpline on 0300 123 1663 (Monday to Friday – 8am to 4pm)
+	* or call 111 (can also provide list of dentists taking NHS patients)
+	* Eastbourne – 01323 449170
+		* The service is open between 6.30pm and 10.30pm on weekday evenings with appointments between 7pm and 9pm.
+		* **Weekends and Bank Holidays**
+		* 1pm to 5.30pm with appointments between 2pm to 4pm

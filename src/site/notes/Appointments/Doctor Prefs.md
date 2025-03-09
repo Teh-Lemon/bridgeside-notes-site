@@ -45,11 +45,13 @@
 ### MC
 - ❌Does not take gynae, under 2's
 ### HB
-- ❌Does not do male genitals
-- Mostly diabetes and learning disabilities
-	- Generally Type 1 
-	- Can do annual RVs, book 30 minutes
-- Will take gynae, HRT, and breast lumps
+- Complex diabetics e.g diabetic medication queries, insulin queries - book 15 minutes with Helen - F2F or tel
+- Complex diabetic annual reviews - book 30 minutes with Helen - F2F or tel
+	- Practice nurses CAN do diabetic annual reviews but only need 20 minutes as they don't review medications
+- Learning disability reviews/patients - F2F preferred 
+- Anything gynae related (not male problems) - F2F
+- ❌No under 2s
+
 ## Physiotherapist
 * Vicarage Field Surgery, next to Waitrose
 	* Vicarage Field, 25 Vicarage Ln, Hailsham BN27 1BE

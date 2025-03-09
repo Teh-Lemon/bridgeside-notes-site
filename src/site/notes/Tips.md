@@ -6,18 +6,19 @@
 - Enable clipboard history, win + v
 - Receptionist triage form 
 	- Accessed via Accurx Inbox, bottom left corner
-		- Might take a few seconds to load
+		- Might take a few seconds to load the patient
 	- Already fills in the patient details for you
-	- Doesn't close on you
+	- Doesn't close on you after 5 minutes
 - Edit sms signature
-	- Click initials in Accurx toolbar
-	- Click name at top
+	- Click your initials in Accurx toolbar
+	- Click your name at the top
 	- Signature
-	- Enter "Thanks, "
+	- Enter "Thanks, " or something
 - Move phone bar to other monitor
 	- Click orange logo icon
 	- Settings
 	- Video and Audio
 	- Bottom drop down option, change monitor 
 - Customize button shortcuts at top of EMIS
-	- 
+	- Click black arrows on right
+- Summary tab next to Consultations tab to check who last called
