@@ -90,7 +90,7 @@
 	* 111, mental health option (crisis)
 	* **Free crisis support text service**. Text the word **SUSSEX** to **85258**
 * Sexual Health (Eastbourne Avenue House)
-	* https://www.eastsussexsexualhealth.co.uk
+	* https://www.eastsussexsexualhealth.co.uk/clinics/eastbourne
 * Pregnancy
 	* Mid-wife / Health Visitor
 * Dental
