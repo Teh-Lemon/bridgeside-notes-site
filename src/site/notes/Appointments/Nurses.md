@@ -9,6 +9,9 @@
 	- Audiology hearing referrals to specsavers
 		- Book 10 min ear check first with PN/HCA
 		- They will pass the notes to the GPs who do the referral
+- 24-hour blood pressure monitoring
+	- 20 min fitting with PN/HCA
+	- Only 1 device, check red diary book to see if already being used
 - Blood Tests
 	- Blood tests must be done in morning
 	- Blood test result reviews: Lipids, HB1AC (sugar), TSH
