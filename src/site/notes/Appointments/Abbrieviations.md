@@ -3,6 +3,7 @@
 ---
 
 * bd - Twice a day
+* C/O - complaints of
 * DN - District nurse
 * DW - Discussed with
 * HF Nurse - Heart Failure Nurse

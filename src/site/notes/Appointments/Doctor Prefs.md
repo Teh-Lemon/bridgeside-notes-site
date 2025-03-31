@@ -25,6 +25,8 @@
 - ❌Do not book her with her old colleagues from Heathfield
 	- TBC how we'll be notified of this
 - ❌Don't change extended slots to F2F
+### SW
+- Task requests
 ## Paramedics
 * Can do prescriptions, but limited controlled drugs
 	* Morphine (Oromorph only, not the tablets)
