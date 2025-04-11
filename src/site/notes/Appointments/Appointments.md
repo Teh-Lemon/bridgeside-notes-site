@@ -13,7 +13,9 @@
 	* EAS need it saved first
 * EAS
 	* Does have access to our consent notes
-	* Should not rv bt
+	* Preferably should not rv bt/sick notes
+	* Have access to years of Emis, Docman
+	* Can see Emis notes marked as "not for public viewing"
 	* Can't approve sick notes
 		* But can assess Pt's illness so we have the medical notes
 	* No complex mental health
@@ -21,6 +23,13 @@
 		* ✅Memory loss but Pt still has mental capacity
 		* ❌Dementia 
 		* ❌Depression treated with meds
+* UTC
+	* Have access to all medical notes
+	* Don't have our Docman but they do sent a copy of the letters by some deprtments
+	* Does not help with long-term pain
+	* Least busy Tuesday morning, worst Mon/Fri/Weekend
+	* Same-day tests except for MRI and USS
+	* A&E shares the same reception desk
 * 999 calls
 	* Write down name, pass onto receptionist team
 	* Write entry into consultation notes

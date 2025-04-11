@@ -42,7 +42,8 @@
 - ❌ Does not do gynae. Can do breast lumps if no other clinician available but he's not trained on it specifically and will only feel around the non-intimate parts.
 - ✅ Ok for male genitals but not trained on prostate problems. 
 	- Can order PSA tests but can't do the rectal exam.
-- ❌ Ideally not under 1s
+	- If need PR exam, book when Dr LG is also available
+- ❌ Ideally not under 1s or pregnant
 - ✅ Prefers screen-messages over tasks
 ### MC
 - ❌Does not take gynae, under 2's
