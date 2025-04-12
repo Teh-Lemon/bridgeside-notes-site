@@ -109,3 +109,5 @@
 		* The service is open between 6.30pm and 10.30pm on weekday evenings with appointments between 7pm and 9pm.
 		* **Weekends and Bank Holidays**
 		* 1pm to 5.30pm with appointments between 2pm to 4pm
+* [Non-Emergency Patient Transport Service (NEPTS)](https://www.esht.nhs.uk/your-care/patient-transport-and-help-with-travel-costs/)
+	* Bookings and enquiries – Tel: 0300 777 4444
