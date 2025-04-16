@@ -18,11 +18,13 @@
 	* Can see Emis notes marked as "not for public viewing"
 	* Can't approve sick notes
 		* But can assess Pt's illness so we have the medical notes
-	* No complex mental health
+	* No complex mental health, under 2s, pregnant patients
 		* ✅Recent stress/anxiety 
 		* ✅Memory loss but Pt still has mental capacity
 		* ❌Dementia 
 		* ❌Depression treated with meds
+		* ✅These are okay if booking with a Doctor
+	* ❌ Not all PPs are trained in hormonal contraceptives (BB)
 * UTC
 	* Have access to all medical notes
 	* Don't have our Docman but they do sent a copy of the letters by some deprtments

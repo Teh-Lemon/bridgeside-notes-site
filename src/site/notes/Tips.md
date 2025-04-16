@@ -22,3 +22,10 @@
 - Customize button shortcuts at top of EMIS
 	- Click black arrows on right
 - Summary tab next to Consultations tab to check who last called
+- Un-delete tasks
+	- On the sender's account
+		- Find the task in Workflow/Sent Tasks
+		- Add a note to it
+		- The task will now show up again in the Patient's Diary
+		- You can now "Complete with Note"
+	- The task will now be re-created properly in the Patient's record.
