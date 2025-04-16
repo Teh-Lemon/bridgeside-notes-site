@@ -3,7 +3,7 @@
 ---
 
 ### Smear Test (Cervix Health)
-Patient can request it any time. Check if will be on period.
+Patient can request it any time. Check if will be on period (stops 45-55).
 
 | Age         | When you're invited                |
 | ----------- | ---------------------------------- |
