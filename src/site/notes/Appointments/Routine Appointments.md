@@ -29,8 +29,8 @@ Patient can request it any time. Check if will be on period (stops 45-55).
 - Can be later than 8 weeks if no available slots
 ### NHS Health Check
 1. Blood Test
-2. Appt with HCA/PC (prioritize HCA)
-	1. Must be within 28 days of blood test
+2. Appt with HCA/PN (prioritize HCA)
+	1. Must be within 28 days of blood test to receive funding
 ## Vaccines
 ### Child Vaccines Schedule
 Do **NOT** book or re-schedule into a Baby Imms slot
